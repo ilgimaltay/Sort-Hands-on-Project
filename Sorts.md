@@ -3,7 +3,7 @@ Author: Ilgim Altay Acar
 
 Bu dosya [ Insertion Sort Projesinin ](https://academy.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje) çözümünü içermektedir.
 
-#### Proje 1
+#### Proje 1a
 
 [22,27,16,2,18,6] -> Insertion Sort
 
@@ -28,7 +28,7 @@ Best case: Aradığımız sayının dizinin en başında olması.*
 **Yanıt**: Sonuca bakildiginda aranan sayi (18) ortada yer almaktadir. Bu durum bir **Average case**dir.
 
 
-#### Proje 2
+#### Proje 1b
 [7,3,5,8,2,9,4,15,6] ***dizisinin Selection Sort'a göre ilk 4 adımını yazınız.***
 
 1. [2,3,5,8,7,9,4,15,6] 
