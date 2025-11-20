@@ -25,7 +25,7 @@ Bu dosya [ Insertion Sort Projesinin ](https://academy.patika.dev/courses/veri-y
 Worst case: Aradığımız sayının sonda olması\
 Best case: Aradığımız sayının dizinin en başında olması.*
 
-**Yanıt**: Sonuca bakildiginda aranan sayi (18) ortada yer almaktadir. Bu durum bir **Avarage case**dir.
+**Yanıt**: Sonuca bakildiginda aranan sayi (18) ortada yer almaktadir. Bu durum bir **Average case**dir.
 
 
 #### Proje 2
